@@ -1,6 +1,6 @@
 # My projects
 This is a *graveyard* of my open-source **gamedev** project that have inevitably died at different stages of completeness 
-(*proof of concept*, *prototype* or *playable demo*). You may press project icon to navigate to corresponding repository that contains detailed descrition with animated gameplay GIFs, sources, build instructions and precompiled binaries.
+(*proof of concept*, *prototype* or *playable demo*). You may press project icon to navigate to corresponding repository that contains detailed project descrition, animated gameplay GIFs, sources, build instructions and precompiled binaries.
 
 | Project | Description |
 | --|--|
