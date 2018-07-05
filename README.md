@@ -1,8 +1,8 @@
 # My projects
 This is a *graveyard* of my open-source **gamedev** project that have inevitably died at different stages of completeness 
-(*proof of concept*, *prototype* or *playable demo*). You may press GIF to navigate to project repository that contains detailed descrition, build instructions, sources and precompiled binaries.
+(*proof of concept*, *prototype* or *playable demo*). You may press project icon to navigate to corresponding repository that contains detailed descrition with animated gameplay GIFs, sources, build instructions and precompiled binaries.
 
-| GIF | Description |
+| Project | Description |
 | --|--|
 | [<img src="https://github.com/afomins/main/blob/master/data/looprider.gif">](https://github.com/afomins/looprider) | ***Looprider (2018)*** - Game prototype that clones "Turn right" gameplay<br/>`2d`, `java`, `libgdx`, `box2d`<br/>https://github.com/afomins/looprider|
 | [<img src="https://github.com/afomins/main/blob/master/data/pd3d.gif">](https://github.com/afomins/pixel-dungeon-3d) | ***Pixel Dungeon 3D (2016-2018)*** - 3D engine for "Pixel Dungeon" roguelike RPG<br/>`3d`, `java`, `libgdx`<br/>https://github.com/afomins/pixel-dungeon-3d|
