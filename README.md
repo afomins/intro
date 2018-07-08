@@ -1,4 +1,4 @@
-# My projects
+# Intro
 This is a *graveyard* for my open-source **gamedev** projects that have inevitably died at different stages of completeness 
 (*proof of concept*, *prototype* or *playable demo*). 
 
@@ -9,6 +9,7 @@ Press preview icon to navigate to corresponding project repository that contains
  * Animated gameplay GIFs
  * Build instructions
 
+# My projects
 | Preview | Description | Binaries|
 | --|--|--|
 | [<img src="https://github.com/afomins/main/blob/master/data/looprider.gif">](https://github.com/afomins/looprider#intro) | ***Looprider (2018)*** - Clone of "Turn right" game<br/>`prototype`, `2d`, `java`, `libgdx`, `box2d`, `racing`<br/>https://github.com/afomins/looprider#intro| [Java](https://github.com/afomins/looprider/releases/download/v0.4.0/looprider.v0.4.0.jar)</br>[Android](https://github.com/afomins/looprider/releases/download/v0.4.0/looprider.v0.4.0.apk)|
