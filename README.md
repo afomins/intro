@@ -3,11 +3,11 @@ This is a *graveyard* for my open-source **gamedev** projects that have inevitab
 (*proof of concept*, *prototype* or *playable demo*). 
 
 Press preview icon to navigate to corresponding project repository that contains:
+ * Detailed project description
  * Sources
- * Project description
- * Animated gameplay GIFs
- * Build instructions 
  * Precompiled binaries
+ * Animated gameplay GIFs
+ * Build instructions
 
 | Preview | Description | Binaries|
 | --|--|--|
