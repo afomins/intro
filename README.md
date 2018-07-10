@@ -1,5 +1,5 @@
 # Intro
-This is a *graveyard* for my open-source **gamedev** projects that have inevitably died at different stages of completeness 
+This is a *digital graveyard* for my open-source *gamedev* projects that have inevitably died at different stages of completeness 
 (*proof of concept*, *prototype* or *playable demo*). 
 
 Press preview icon to navigate to corresponding project repository that contains:
