@@ -1,13 +1,6 @@
 # Intro
 This is a *digital graveyard* for my open-source *gamedev* projects that have inevitably died at different stages of completeness 
-(*proof of concept*, *prototype* or *playable demo*). 
-
-Press preview icon to navigate to corresponding project repository that contains:
- * Detailed project description
- * Sources
- * Precompiled binaries
- * Animated gameplay GIFs
- * Build instructions
+(*proof of concept*, *prototype* or *playable demo*). Press preview icon to navigate to corresponding project repository.
 
 # My projects
 | Preview | Description | Binaries|
@@ -18,3 +11,4 @@ Press preview icon to navigate to corresponding project repository that contains
 | [<img src="https://github.com/afomins/main/blob/master/data/hex-snake.gif">](https://github.com/afomins/hex-snake#intro) | ***Hex snake (2014)*** - 3D "snake" game<br/>`prototype`, `3d`, `c#`, `unity3d`, `procedural-generation`, `snake-game`<br/>https://github.com/afomins/hex-snake#intro|[Windows](https://github.com/afomins/hex-snake/releases/download/v0.1.0/hex-snake-win-x86.zip)|
 | [<img src="https://github.com/afomins/main/blob/master/data/yamg.gif">](https://github.com/afomins/yamg#intro) |  ***YAMG (2013-2014)*** - "Yet Another Mining Game" sandbox physics game<br/>`prototype`, `2d`, `java`, `libgdx`, `physics`, `sandbox`<br/>https://github.com/afomins/yamg#intro|[Java](https://github.com/afomins/yamg/releases/download/v0.4.0/yamg-v0.4.0.jar)</br>[Android](https://github.com/afomins/yamg/releases/download/v0.4.0/yamg-v0.4.0.apk)|
 | [<img src="https://github.com/afomins/main/blob/master/data/terrain.gif">](https://github.com/afomins/terrain#intro) |  ***Terrain (2012)*** - 2D terrain deformation<br/>`proof-of-concept`, `2d`, `python`, `terrain-deformation`<br/>https://github.com/afomins/terrain#intro|[Windows](https://github.com/afomins/terrain/releases/download/v0.1.0/terrain-v0.1.0.exe)</br>|
+| [<img src="https://github.com/afomins/main/blob/master/data/novus.gif">](https://github.com/afomins/novus#intro) |  ***Novus (2003)*** - novus game<br/>`prototype`, `3d`, `c++`, `opengl`<br/>https://github.com/afomins/novus#intro|[Windows](https://github.com/afomins/novus/releases/download/v0.1.0/novus-win32.zip)</br>|
