@@ -3,7 +3,7 @@ Hey there, my name is Alex and this is a *digital graveyard* for my open-source 
 (*proof of concept*, *prototype* or *playable demo*). Press preview icon below to navigate to corresponding project repository.
 
 # My projects
-| Preview | Description | Binaries|
+| Preview | Description | Downloads |
 | --|--|--|
 | [<img src="https://github.com/afomins/main/blob/master/data/looprider.gif">](https://github.com/afomins/looprider#intro) | ***Looprider (2018)*** - Clone of "Turn right" game<br/>`prototype`, `2d`, `java`, `libgdx`, `box2d`, `racing`<br/>https://github.com/afomins/looprider#intro| [Java](https://github.com/afomins/looprider/releases/download/v0.4.0/looprider.v0.4.0.jar)</br>[Android](https://github.com/afomins/looprider/releases/download/v0.4.0/looprider.v0.4.0.apk)|
 | [<img src="https://github.com/afomins/main/blob/master/data/pd3d.gif">](https://github.com/afomins/pixel-dungeon-3d#intro) | ***Pixel Dungeon 3D (2016-2018)*** - 3D engine for "Pixel Dungeon" roguelike RPG<br/>`playable-beta`, `3d`, `java`, `libgdx`, `turnbased`, `roguelike`, `rpg`<br/>https://github.com/afomins/pixel-dungeon-3d#intro| [Java](https://github.com/afomins/pixel-dungeon-3d/releases/download/v0.2.8/pd3d-v0.2.8.jar)</br>[Android](https://github.com/afomins/pixel-dungeon-3d/releases/download/v0.2.8/pd3d-v0.2.8.apk)|
